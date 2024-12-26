@@ -122,3 +122,7 @@
 2024-12-25 19:50:25:INFO:Client 192.168.86.29 is now listening on pool spool
 2024-12-25 19:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2024-12-25 19:50:25:INFO:External DB synced. Filaments: 3176, Materials: 23
+2024-12-25 20:50:25:INFO:Syncing external DB.
+2024-12-25 20:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2024-12-25 20:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2024-12-25 20:50:25:INFO:External DB synced. Filaments: 3176, Materials: 23
