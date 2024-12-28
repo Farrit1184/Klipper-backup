@@ -134,3 +134,4 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2996.finish
   Input should be 'matte' or 'glossy' [type=enum, input_value='wood', input_type=str]
     For further information visit https://errors.pydantic.dev/2.10/v/enum
+2024-12-28 18:50:25:INFO:Syncing external DB.
