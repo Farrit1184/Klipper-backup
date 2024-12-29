@@ -92,3 +92,25 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2996.finish
   Input should be 'matte' or 'glossy' [type=enum, input_value='wood', input_type=str]
     For further information visit https://errors.pydantic.dev/2.10/v/enum
+2024-12-29 03:50:25:INFO:Syncing external DB.
+2024-12-29 03:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2024-12-29 03:50:25:ERROR:Unhandled exception in `scheduler.asyncio.job.Job(<JobType.CYCLIC: 1>, [datetime.timedelta(seconds=3600)], <function _sync at 0x7f8f1fd760>, (), {}, 0, True, datetime.datetime(2024, 12, 25, 19, 50, 25, 38938), None, False, None, None)`!
+Traceback (most recent call last):
+  File "/home/farrit/Spoolman/.venv/lib/python3.11/site-packages/scheduler/asyncio/job.py", line 64, in _exec
+    await coroutine
+  File "/home/farrit/Spoolman/spoolman/externaldb.py", line 173, in _sync
+    filaments = _parse_filaments_from_bytes(await _download_file(url + "filaments.json"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farrit/Spoolman/spoolman/externaldb.py", line 145, in _parse_filaments_from_bytes
+    return ExternalFilamentsFile.parse_raw(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farrit/Spoolman/.venv/lib/python3.11/site-packages/pydantic/main.py", line 1277, in parse_raw
+    return cls.model_validate(obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/farrit/Spoolman/.venv/lib/python3.11/site-packages/pydantic/main.py", line 627, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFilamentsFile
+2996.finish
+  Input should be 'matte' or 'glossy' [type=enum, input_value='wood', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/enum
