@@ -369,3 +369,10 @@
 2024-12-30 12:02:10:INFO:Client 192.168.86.33 has stopped listening on pool spool,15
 2024-12-30 12:02:10:INFO:Client 192.168.86.33 is now listening on pool spool,6
 2024-12-30 12:02:11:INFO:Client 192.168.86.33 is now listening on pool spool,8
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool,1
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool,2
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool,4
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool,6
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool,3
+2024-12-30 12:02:12:INFO:Client 192.168.86.33 has stopped listening on pool spool,8
