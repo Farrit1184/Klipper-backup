@@ -778,3 +778,5 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2024-12-29 20:06:53:INFO:Client 192.168.86.33 is now listening on pool spool,12
 2024-12-29 20:06:54:INFO:Client 192.168.86.33 is now listening on pool spool,2
 2024-12-29 20:06:56:INFO:Client 192.168.86.33 is now listening on pool spool,6
+2024-12-29 20:50:25:INFO:Syncing external DB.
+2024-12-29 20:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
