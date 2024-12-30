@@ -106,3 +106,5 @@
 2024-12-30 10:56:01:INFO:Client 192.168.86.33 is now listening on pool spool,3
 2024-12-30 10:56:01:INFO:Client 192.168.86.33 is now listening on pool spool,2
 2024-12-30 10:56:02:INFO:Client 192.168.86.33 is now listening on pool spool,1
+2024-12-30 11:50:25:INFO:Syncing external DB.
+2024-12-30 11:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
