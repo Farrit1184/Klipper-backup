@@ -246,3 +246,18 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2024-12-29 19:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
 2024-12-29 19:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2024-12-29 19:50:25:INFO:External DB synced. Filaments: 4514, Materials: 29
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,18
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,20
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,19
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,11
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,4
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,3
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,2
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,6
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,8
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,15
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,12
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,17
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,16
+2024-12-29 19:52:44:INFO:Client 192.168.86.33 has stopped listening on pool spool,1
