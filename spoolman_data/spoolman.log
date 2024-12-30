@@ -782,3 +782,7 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2024-12-29 20:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
 2024-12-29 20:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2024-12-29 20:50:25:INFO:External DB synced. Filaments: 4514, Materials: 29
+2024-12-29 21:50:25:INFO:Syncing external DB.
+2024-12-29 21:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2024-12-29 21:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2024-12-29 21:50:25:INFO:External DB synced. Filaments: 4514, Materials: 29
