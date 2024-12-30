@@ -379,3 +379,11 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2024-12-29 19:53:44:INFO:Client 192.168.86.33 has stopped listening on pool filament,3
 2024-12-29 19:53:44:INFO:Client 192.168.86.33 has stopped listening on pool filament,9
 2024-12-29 19:53:44:INFO:Client 192.168.86.33 has stopped listening on pool filament,1
+2024-12-29 19:54:14:INFO:Client 192.168.86.33 is now listening on pool vendor
+2024-12-29 19:54:14:INFO:Client 192.168.86.33 is now listening on pool vendor,1
+2024-12-29 19:54:14:INFO:Client 192.168.86.33 is now listening on pool vendor,2
+2024-12-29 19:54:14:INFO:Client 192.168.86.33 is now listening on pool vendor,3
+2024-12-29 19:54:16:INFO:Client 192.168.86.33 has stopped listening on pool vendor,1
+2024-12-29 19:54:16:INFO:Client 192.168.86.33 has stopped listening on pool vendor
+2024-12-29 19:54:16:INFO:Client 192.168.86.33 has stopped listening on pool vendor,2
+2024-12-29 19:54:16:INFO:Client 192.168.86.33 has stopped listening on pool vendor,3
