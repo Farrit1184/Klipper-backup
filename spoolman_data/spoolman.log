@@ -436,3 +436,7 @@
 2024-12-30 12:29:04:INFO:Client 192.168.86.33 has stopped listening on pool spool,1
 2024-12-30 12:29:04:INFO:Client 192.168.86.33 has stopped listening on pool spool,3
 2024-12-30 12:29:04:INFO:Client 192.168.86.33 has stopped listening on pool spool,4
+2024-12-30 12:50:25:INFO:Syncing external DB.
+2024-12-30 12:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2024-12-30 12:50:26:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2024-12-30 12:50:26:INFO:External DB synced. Filaments: 4535, Materials: 29
