@@ -325,3 +325,4 @@ pydantic_core._pydantic_core.ValidationError: 1 validation error for ExternalFil
 2024-12-29 19:53:20:INFO:Client 192.168.86.33 is now listening on pool spool,4
 2024-12-29 19:53:20:INFO:Client 192.168.86.33 is now listening on pool spool,1
 2024-12-29 19:53:21:INFO:Client 192.168.86.33 is now listening on pool spool,3
+2024-12-29 19:53:22:INFO:Client 192.168.86.33 is now listening on pool spool,2
