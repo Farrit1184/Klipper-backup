@@ -114,3 +114,4 @@
 2025-01-02 21:50:28:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
 2025-01-02 21:50:29:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2025-01-02 21:50:29:INFO:External DB synced. Filaments: 4535, Materials: 29
+2025-01-02 22:50:25:INFO:Syncing external DB.
