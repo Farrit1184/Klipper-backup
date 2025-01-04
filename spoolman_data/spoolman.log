@@ -336,3 +336,4 @@
 2025-01-04 11:31:39:INFO:Client 192.168.86.26 has stopped listening on pool spool,1
 2025-01-04 11:31:39:INFO:Client 192.168.86.26 has stopped listening on pool spool,6
 2025-01-04 11:31:39:INFO:Client 192.168.86.26 has stopped listening on pool spool,16
+2025-01-04 11:31:40:INFO:Client 192.168.86.26 is now listening on pool spool,24
