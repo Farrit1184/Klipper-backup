@@ -534,3 +534,41 @@
 2025-01-04 11:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
 2025-01-04 11:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2025-01-04 11:50:25:INFO:External DB synced. Filaments: 4535, Materials: 29
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,1
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,2
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,3
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,4
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,6
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,8
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,11
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,15
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,12
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,16
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,18
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,17
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,19
+2025-01-04 11:54:53:INFO:Client 192.168.86.26 is now listening on pool spool,20
+2025-01-04 11:54:54:INFO:Client 192.168.86.26 is now listening on pool spool,23
+2025-01-04 11:54:54:INFO:Client 192.168.86.26 is now listening on pool spool,24
+2025-01-04 11:54:55:INFO:Client 192.168.86.26 is now listening on pool spool,21
+2025-01-04 11:54:55:INFO:Client 192.168.86.26 is now listening on pool spool,22
+2025-01-04 11:54:56:INFO:Client 192.168.86.26 is now listening on pool spool,25
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,16
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,1
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,21
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,12
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,25
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,15
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,18
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,22
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,4
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,11
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,23
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,8
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,2
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,3
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,6
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,24
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,17
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,20
+2025-01-04 11:55:04:INFO:Client 192.168.86.26 has stopped listening on pool spool,19
