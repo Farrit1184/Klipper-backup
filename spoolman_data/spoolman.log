@@ -70,3 +70,21 @@
 2025-01-04 10:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
 2025-01-04 10:50:25:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
 2025-01-04 10:50:25:INFO:External DB synced. Filaments: 4535, Materials: 29
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,1
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,2
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,3
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,4
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,6
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,11
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,8
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,15
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,12
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,16
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,17
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,18
+2025-01-04 11:25:57:INFO:Client 192.168.86.26 is now listening on pool spool,19
+2025-01-04 11:25:58:INFO:Client 192.168.86.26 is now listening on pool spool,20
+2025-01-04 11:25:59:INFO:Client 192.168.86.26 is now listening on pool spool,21
+2025-01-04 11:25:59:INFO:Client 192.168.86.26 is now listening on pool spool,22
+2025-01-04 11:26:02:INFO:Client 192.168.86.26 is now listening on pool spool,23
