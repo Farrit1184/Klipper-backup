@@ -249,3 +249,14 @@
 2025-01-07 22:19:28:INFO:Client 192.168.86.29 has stopped listening on pool spool,24
 2025-01-07 22:19:28:INFO:Client 192.168.86.29 has stopped listening on pool spool,21
 2025-01-07 22:19:29:INFO:Client 192.168.86.29 is now listening on pool spool,22
+2025-01-07 22:19:40:INFO:Client 192.168.86.29 has stopped listening on pool spool,22
+2025-01-07 22:19:40:INFO:Client 192.168.86.29 is now listening on pool spool
+2025-01-07 22:19:40:INFO:Client 192.168.86.29 is now listening on pool spool,1
+2025-01-07 22:19:40:INFO:Client 192.168.86.29 has stopped listening on pool spool,1
+2025-01-07 22:19:41:INFO:Client 192.168.86.29 is now listening on pool spool,22
+2025-01-07 22:19:41:INFO:Client 192.168.86.29 is now listening on pool spool,21
+2025-01-07 22:19:41:INFO:Client 192.168.86.29 is now listening on pool spool,6
+2025-01-07 22:19:42:INFO:Client 192.168.86.29 is now listening on pool spool,2
+2025-01-07 22:19:42:INFO:Client 192.168.86.29 is now listening on pool spool,16
+2025-01-07 22:19:42:INFO:Client 192.168.86.29 is now listening on pool spool,15
+2025-01-07 22:19:42:INFO:Client 192.168.86.29 is now listening on pool spool,20
