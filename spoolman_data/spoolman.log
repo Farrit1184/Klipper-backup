@@ -276,3 +276,16 @@
 2025-01-07 22:19:44:INFO:Client 192.168.86.29 is now listening on pool spool,1
 2025-01-07 22:19:44:INFO:Client 192.168.86.29 is now listening on pool spool,22
 2025-01-07 22:19:44:INFO:Client 192.168.86.29 has stopped listening on pool spool,18
+2025-01-07 22:19:54:INFO:Client 192.168.86.29 has stopped listening on pool spool,22
+2025-01-07 22:19:54:INFO:Client 192.168.86.29 is now listening on pool spool
+2025-01-07 22:19:54:INFO:Client 192.168.86.29 has stopped listening on pool spool,1
+2025-01-07 22:19:54:INFO:Client 192.168.86.29 is now listening on pool spool,1
+2025-01-07 22:19:55:INFO:Client 192.168.86.29 has stopped listening on pool spool,1
+2025-01-07 22:19:55:INFO:Client 192.168.86.29 is now listening on pool spool,18
+2025-01-07 22:19:56:INFO:Client 192.168.86.29 is now listening on pool spool,19
+2025-01-07 22:19:56:INFO:Client 192.168.86.29 is now listening on pool spool,22
+2025-01-07 22:19:56:INFO:Client 192.168.86.29 has stopped listening on pool spool
+2025-01-07 22:19:56:INFO:Client 192.168.86.29 has stopped listening on pool spool,18
+2025-01-07 22:19:56:INFO:Client 192.168.86.29 has stopped listening on pool spool,19
+2025-01-07 22:19:56:INFO:Setting "locations" has been set to "["Drybox","Creatily Filament Dryer","Sunlu Filament Dryer"]".
+2025-01-07 22:19:56:INFO:Client 192.168.86.29 has stopped listening on pool spool,22
