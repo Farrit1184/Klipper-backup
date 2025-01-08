@@ -400,3 +400,24 @@
 2025-01-07 22:21:51:INFO:Client 192.168.86.33 is now listening on pool spool,4
 2025-01-07 22:21:51:INFO:Client 192.168.86.33 is now listening on pool spool,15
 2025-01-07 22:21:51:INFO:Client 192.168.86.33 is now listening on pool spool,12
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 is now listening on pool spool,2
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 is now listening on pool spool,16
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,25
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,24
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,23
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,22
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,20
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,18
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,19
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,17
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,15
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,12
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,3
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,21
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,8
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,6
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,4
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,2
+2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,16
+2025-01-07 22:21:55:INFO:Setting "base_url" has been set to ""http://192.168.86.29:7912/spool#sorters=%5B%7B%22field%22%3A%22id%22%2C%22order%22%3A%22desc%22%7D%5D"".
