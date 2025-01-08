@@ -422,3 +422,7 @@
 2025-01-07 22:21:52:INFO:Client 192.168.86.33 has stopped listening on pool spool,16
 2025-01-07 22:21:55:INFO:Setting "base_url" has been set to ""http://192.168.86.29:7912/spool#sorters=%5B%7B%22field%22%3A%22id%22%2C%22order%22%3A%22desc%22%7D%5D"".
 2025-01-07 22:21:57:INFO:Setting "base_url" has been set to ""http://192.168.86.29:7912/spool#sorters=%5B%7B%22field%22%3A%22id%22%2C%22order%22%3A%22desc%22%7D%5D"".
+2025-01-07 23:02:34:INFO:Syncing external DB.
+2025-01-07 23:02:34:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-01-07 23:02:35:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-01-07 23:02:35:INFO:External DB synced. Filaments: 4611, Materials: 29
