@@ -26,3 +26,7 @@
 2025-01-08 00:00:00:INFO:Copied 23 of 24 pages.
 2025-01-08 00:00:00:INFO:Copied 24 of 24 pages.
 2025-01-08 00:00:00:INFO:Backup complete.
+2025-01-08 00:02:34:INFO:Syncing external DB.
+2025-01-08 00:02:34:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/filaments.json "HTTP/1.1 200 OK"
+2025-01-08 00:02:35:INFO:HTTP Request: GET https://donkie.github.io/SpoolmanDB/materials.json "HTTP/1.1 200 OK"
+2025-01-08 00:02:35:INFO:External DB synced. Filaments: 4611, Materials: 29
