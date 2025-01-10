@@ -6,3 +6,4 @@ secrets.conf
 *.bkp
 *.csv
 *.zip
+printer-[0-9]*_[0-9]*.cfg
